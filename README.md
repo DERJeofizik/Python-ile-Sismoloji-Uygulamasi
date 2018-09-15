@@ -13,4 +13,4 @@ Sisteminizde bu kodlari calistirmak icin gerekli paket programlar:
 * scipy
 * matplotlib
 
-Jupyter Notebookun anlatildigi Youtube [linki](www.youtube.com)
+Jupyter Notebookun anlatildigi Youtube [linki](http://www.youtube.com)
