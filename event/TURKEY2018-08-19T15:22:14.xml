@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns:ns0="http://service.iris.edu/fdsnws/event/1/" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns="http://quakeml.org/xmlns/bed/1.2">
+  <eventParameters publicID="smi:local/0ea1324c-1686-4ebd-a71c-39f2dbdd7e4a">
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=10937757">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=34113986</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=189224544</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description ns0:FEcode="366">
+        <text>TURKEY</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=34113986" ns0:contributor="us" ns0:contributorOriginId="us1000gdb1" ns0:catalog="NEIC PDE" ns0:contributorEventId="us1000gdb1">
+        <time>
+          <value>2018-08-19T15:22:14.240000Z</value>
+        </time>
+        <latitude>
+          <value>37.2897</value>
+        </latitude>
+        <longitude>
+          <value>36.364</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>us</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=189224544">
+        <mag>
+          <value>5.1</value>
+        </mag>
+        <type>mb</type>
+        <creationInfo>
+          <author>us</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+  </eventParameters>
+</q:quakeml>
